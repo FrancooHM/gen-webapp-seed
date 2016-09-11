@@ -1,7 +1,7 @@
 #FVF: Fucking Very Fullstack webapp template
 
 <strong><h1>Stack</h1></strong>
-- express ES2015 + Mongoose + Babel ES2015 : <strong>REST API</strong>
+- express ES2015 + Mongoose : <strong>REST API</strong>
 - Angular + Materialize + Auth0 : <strong>Backoffice Panel App</strong>
 - React ES2015 + Webpack : <strong>Client App</strong>
 - NPM + Bower : <strong>Dependencies</strong>
